@@ -1,3 +1,6 @@
 # special-carnival
 My first repo
-123
+- [x] download GitHub
+- [x] login
+- [x] make homework 
+- [ ] send it
