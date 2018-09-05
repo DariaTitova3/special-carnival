@@ -1,4 +1,4 @@
-# special-carnival
+# homework
 My first repo
 - [x] download GitHub
 - [x] log in
